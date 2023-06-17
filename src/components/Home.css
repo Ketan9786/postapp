@@ -1,0 +1,18 @@
+textarea {	
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;	
+    width: 50%;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+
+    .flex{
+        display: flex;
+        flex-direction: column;
+        margin-top: 5%;
+        align-items: center;
+        
+    }
+    
